@@ -44,9 +44,9 @@ I am a Computer Science student passionate about **Software Development**, focus
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sompong-dev&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+ <img src="https://github-readme-stats.vercel.app/api?username=sompong-dev&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=sompong-dev&theme=radical" alt="GitHub Streak" width="48%" />
-
+</p>
 ---
 
 ### 📫 How to reach me
