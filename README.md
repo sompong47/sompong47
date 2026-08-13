@@ -1,4 +1,4 @@
-# HI there, I'm Pathiphat Sriburin 
+# HI there, I'm Sompong Yaikham 
 
 I am a Computer Science student passionate about *Software Development*, focusing on backend architecture, database integration, and system security. I enjoy building robust RESTful APIs, developing scalable applications, and ensuring high software quality through rigorous testing. Whether it's writing clean code or identifying system vulnerabilities, I am always eager to tackle new technical challenges!
 
@@ -38,7 +38,7 @@ I am a Computer Science student passionate about *Software Development*, focusin
 ---
 
 ### 📫 How to reach me
-- *Email:* pathiphat228@gmail.com
-- *Line ID:* thissave
-- *Phone:* 096-338-5715
+- *Email:* maserxtv@gmail.com
+- *Line ID:* 0621603212
+- *Phone:* 0621546910
 img.shields.io
