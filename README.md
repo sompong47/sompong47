@@ -30,11 +30,6 @@ I am a Computer Science student passionate about *Software Development*, focusin
 ![Draw.io](https://img.shields.io/badge/draw.io-%23F08705.svg?style=for-the-badge&logo=diagrams.net&logoColor=white)
 
 ---
-
-### 📈 GitHub Stats
-
-[![Pathiphat's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pathiphat1922&show_icons=true&theme=radium)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ### 📫 How to reach me
